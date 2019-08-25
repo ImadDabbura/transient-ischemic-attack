@@ -1,6 +1,7 @@
 Transient Ischemic Attack (TIA) Prediction Model
 ==============================
-<img src="https://www.stroke.org/wp-content/uploads/2018/12/tia_horiz.jpg">
+
+<img src="references/Transient-Ischemic-Attack.jpg">
 
 A transient ischemic attack (TIA) is like a stroke, producing similar symptoms, but usually lasting only a few minutes and causing no permanent damage.
 Often called a ministroke, a transient ischemic attack may be a warning.
